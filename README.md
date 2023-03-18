@@ -6,4 +6,4 @@ How To Use:
 2. Start solution (.sln) with Visual Studio
 3. Compile it with your changes
 How it works?
-There's only a small problem, you have to recompile it if you want to put the license and activate it lifetime  
+ 
